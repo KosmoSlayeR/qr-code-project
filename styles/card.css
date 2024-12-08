@@ -1,25 +1,34 @@
 .card-container {
-    width: 300px;
     background-color: white;
     padding: 16px 16px;
-    border-radius: 10px;
+    border-radius: 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .qr-code {
-    width: 100%;
+    width: 288px;
+    display: block;
     border-radius: 10px;
     margin-bottom: 20px;
 }
 
 h1 {
+    width: 256px;
     font-size: 22px;
     font-weight: 700;
     color: rgb(31, 49, 79);
-    margin-bottom: 10px;
+    margin-bottom: 14px;
     text-align: center;
 }
 
 p {
-    margin-bottom: 20px;
+    width: 256px;
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(216, 15%, 48%);
+    margin-bottom: 24px;
     text-align: center;
 }
