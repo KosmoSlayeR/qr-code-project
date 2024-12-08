@@ -1,0 +1,25 @@
+.card-container {
+    width: 300px;
+    background-color: white;
+    padding: 16px 16px;
+    border-radius: 10px;
+}
+
+.qr-code {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 22px;
+    font-weight: 700;
+    color: rgb(31, 49, 79);
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 20px;
+    text-align: center;
+}
