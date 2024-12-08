@@ -1,4 +1,4 @@
-.card-container {
+.card {
     background-color: white;
     padding: 16px 16px;
     border-radius: 14px;
@@ -6,6 +6,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-bottom: 20px;
 }
 
 .qr-code {
@@ -31,4 +32,5 @@ p {
     color: hsl(216, 15%, 48%);
     margin-bottom: 24px;
     text-align: center;
+    line-height: 22px;
 }
