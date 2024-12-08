@@ -1,0 +1,11 @@
+.attribution p {
+    width: fit-content;
+    font-size: 11px;
+    text-align: center;
+    margin: auto;
+    color: black;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%)
+}
