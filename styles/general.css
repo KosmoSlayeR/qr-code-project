@@ -3,14 +3,13 @@
 * {
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
 }
 
 body {
+    box-sizing: border-box;
     height: 100vh;
     font-family: "Outfit";
     background-color: hsl(212, 45%, 89%);
-    padding: 10px 10px;
     display: flex;
     flex-direction: column;
     justify-content: center;
