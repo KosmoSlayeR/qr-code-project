@@ -1,5 +1,8 @@
+.attribution {
+    flex: 1;
+}
+
 .attribution p {
-    height: 30px;
     width: fit-content;
     font-size: 11px;
     text-align: center;
